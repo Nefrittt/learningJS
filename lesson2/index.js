@@ -1,5 +1,5 @@
 "use strict"
-// commit-2
- 
 
-const arrFruits = ['apple','orange','banana'];
+const testVar = String(true);
+
+console.log(testVar, typeof testVar);
