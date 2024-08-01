@@ -1,5 +1,21 @@
 "use strict"
 
-const testVar = String(true);
+const testStringVar = String(true);
+// const testNumberVar = Number('43');
+const testNumberVar = +true;
 
-console.log(testVar, typeof testVar);
+
+const testBooleanVar = !!0;
+
+//console.log(testBooleanVar, typeof testBooleanVar);
+
+//Математические операторы
+
+
+console.log(2+5)
+console.log(2*5)
+console.log(2-5)
+console.log(10/2)
+console.log(10%2)
+console.log(11%2)
+console.log(2**3)
