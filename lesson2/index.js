@@ -12,10 +12,21 @@ const testBooleanVar = !!0;
 //Математические операторы
 
 
-console.log(2+5)
-console.log(2*5)
-console.log(2-5)
-console.log(10/2)
-console.log(10%2)
-console.log(11%2)
-console.log(2**3)
+// console.log(2+5)
+// console.log(2*5)
+// console.log(2-5)
+// console.log(10/2)
+// console.log(10%2)
+// console.log(11%2)
+// console.log(2**3)
+
+// console.log('A' > 'apple')
+
+// const obj1 = {}
+// const obj2 = {}
+
+// console.log(obj1 === obj2);
+
+console.log('ананас'>'яблоко');
+
+
